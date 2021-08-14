@@ -1,3 +1,8 @@
 body{
- background-color:blue;
+ background-color:rgb(84, 84, 150);
+}
+table, tr, td{
+    color:white;
+    border:3px solid green;
+    width: 80%;
 }
